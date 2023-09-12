@@ -1,5 +1,4 @@
 # EDICION DE REPOSITORIO👋
-*texto en cursiva*
 _HOLA PIOLIN_
 ![Alt](https://seeklogo.com/images/P/piolin-logo-96AAE6600C-seeklogo.com.png)
 <!--
