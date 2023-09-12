@@ -1,4 +1,6 @@
 # EDICION DE REPOSITORIO👋
+*texto en cursiva*
+_texto en cursiva_
 
 <!--
 **ju1iana01/ju1iana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
