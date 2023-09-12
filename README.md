@@ -3,7 +3,7 @@
 _texto en cursiva_
 ![Alt](/ruta/imagen.png)
 
-https://e7.pngegg.com/pngimages/258/854/png-clipart-spongebob-spongebob.png
+/https://e7.pngegg.com/pngimages/258/854/png-clipart-spongebob-spongebob.png
 <!--
 **ju1iana01/ju1iana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
