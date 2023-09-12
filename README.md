@@ -1,8 +1,7 @@
 # EDICION DE REPOSITORIO👋
 *texto en cursiva*
 _texto en cursiva_
-![Alt](https://e7.pngegg.com/pngimages/258/854/png-clipart-spongebob-spongebob.png)
-
+![Alt](https://www.pngmart.com/files/13/Super-Mario-Bros-Game-PNG-Image.png)
 <!--
 **ju1iana01/ju1iana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
