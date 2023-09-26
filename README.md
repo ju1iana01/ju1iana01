@@ -1,4 +1,4 @@
-# EDICION DE REPOSITORIO 
+# EDICIÓN DE REPOSITORIO 
 # 💫 About Me:
 Systems engineer student <br>I likw to spend time with my family
 
