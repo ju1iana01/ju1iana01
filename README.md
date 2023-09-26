@@ -1,17 +1,16 @@
-# EDICION DE REPOSITORIO👋
-_HOLA PIOLIN_
-![Alt](https://seeklogo.com/images/P/piolin-logo-96AAE6600C-seeklogo.com.png)
-<!--
-**ju1iana01/ju1iana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# EDICION DE REPOSITORIO 
+# 💫 About Me:
+Systems engineer student <br>I likw to spend time with my family
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ju1iana01&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ju1iana01&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ju1iana01&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ju1iana01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
