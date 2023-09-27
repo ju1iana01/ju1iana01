@@ -17,3 +17,4 @@ Mi nombre es Juliana Muñoz Tulcán<br>Tengo 20 años<br>Actualmente estudio Ing
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Alt](https://pps.whatsapp.net/v/t61.24694-24/368268417_822295759632223_3420928254606322124_n.jpg?ccb=11-4&oh=01_AdROaOLp6WTiTlo6H9X-Jh0PPw95ChkhOS2TByJPRI_GSA&oe=65209E3A&_nc_sid=000000&_nc_cat=102)
