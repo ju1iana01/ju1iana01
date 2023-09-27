@@ -1,6 +1,6 @@
-# EDICIÓN DE REPOSITORIO 
+# BIENVENIDOS A MI REPOSITORIO
 # 💫 About Me:
-Systems engineer student <br>I likw to spend time with my family
+Systems engineer student <br> I likw to spend time with my family  
 
 
 # 💻 Tech Stack:
